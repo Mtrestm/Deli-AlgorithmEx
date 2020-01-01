@@ -28,6 +28,7 @@ public class lc_76 {
         //2.定义最小窗口的左边界,最小窗口的右边界,当前最小窗口的长度(winLeft,winRight只记录并参与结果计算,并不用来移动)
         int winLeft = 0,winRight = -1, winLen = Integer.MAX_VALUE;
         int[] buffer = new int[128];
+        //(滑动窗口数组buffer里记什么?记录对应字符的目标字符的个数)
         for (char c : t.toCharArray()) {
             buffer[c]++;
         }
@@ -52,7 +53,7 @@ public class lc_76 {
                 }
                 //获取左指针
                 char lCh = s.charAt(left);
-                // 因为要把当前字母移除，所有相应次数要加 1
+                // 因为要把当前字母移除，所有相应次数要加 1(// 因为要把当前字母移除，所有相应次数要加 1(这些字符在右指针移动的时候都被减执行了 buffer[rCh]--))
                 buffer[lCh]++;
                 if (buffer[lCh] > 0) total++;
                 left++;//左指针右移
