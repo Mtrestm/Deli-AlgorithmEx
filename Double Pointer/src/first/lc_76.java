@@ -15,6 +15,7 @@ public class lc_76 {
     }
 
     /**
+     * 已入anki
      * 仿解
      * @author Shaobo.Qian
      * @date 2019/12/13

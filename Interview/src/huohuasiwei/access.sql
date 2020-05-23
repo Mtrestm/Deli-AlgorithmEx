@@ -1,0 +1,1 @@
+SELECT t.url,COUNT(url) rank FROM (SELECT url,COUNT(ip) FROM access  where time >= '2019-01-01 10:00:00' and time < '2019-01-01 11:00:00' GROUP by url,ip) t GROUP by t.url ORDER by rank desc
