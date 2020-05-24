@@ -12,8 +12,10 @@ public class jz_65 {
      * 位运算
      * @link: https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/solution/mian-shi-ti-65-bu-yong-jia-jian-cheng-chu-zuo-ji-7/
      * @question:
-     * 1.如何求非进位和?
-     * 2.如何求进位?
+     * 1.如何求非进位和?公式?
+     * 2.如何求进位?公式?
+     * 3.s=a+b==>转化成的公式?
+     * 4.基于上面的分析,用位运算实现加法的总体思路?
      * @author Shaobo.Qian
      * @date 2020/5/7
      */

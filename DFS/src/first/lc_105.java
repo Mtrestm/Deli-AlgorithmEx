@@ -23,9 +23,13 @@ public class lc_105 {
     }
 
     /**
-     * todo:分治+递归
+     * //已入anki
+     * //分治+递归
      * @question
-     * 1:前序遍历和中序遍历的数组分别确定了树的什么?2.构建二叉树元素和索引分别在哪个数组中取3.二叉树左右子树对应的前序遍历数组和中序遍历数组的索引边界如何确定
+     * 1:前序遍历和中序遍历的数组分别确定了树的什么?
+     * 2.构建二叉树元素和索引分别在哪个数组中取
+     * 3.二叉树左右子树对应的前序遍历数组和中序遍历数组的索引边界如何确定
+     * 4.构建二叉树总体分为哪三步?
      * @author Shaobo.Qian
      * @date 2020/3/5
      * @link:https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/er-cha-shu-de-qian-xu-bian-li-fen-zhi-si-xiang-by-/
