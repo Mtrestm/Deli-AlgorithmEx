@@ -45,6 +45,7 @@ public class jz_51 {
     }
 
     /**
+     * anki
      * @question: 1.归并排序里五个指针(i,j,mid,left,right)各指向的位置 2.如何借助归并排序(分治思想)来统计逆序对?关键是在哪一步里统计,如何统计?
      * 归并排序
      * nums[left..mid] 有序，nums[mid + 1..right] 有序

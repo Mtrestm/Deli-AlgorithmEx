@@ -9,6 +9,7 @@ package first;
 
 public class jz_65 {
     /**
+     * anki
      * 位运算
      * @link: https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/solution/mian-shi-ti-65-bu-yong-jia-jian-cheng-chu-zuo-ji-7/
      * @question:

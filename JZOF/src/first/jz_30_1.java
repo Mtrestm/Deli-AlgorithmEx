@@ -9,8 +9,9 @@ package first;
 
 import java.util.Stack;
 
-//todo:
+
 /**
+ * anki
  * @question:
  * 1.如何维护最小栈(辅助栈)
  * 2.最小栈中存储的元素的特点?

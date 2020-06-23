@@ -10,6 +10,7 @@ package first;
 public class jz_42 {
 
     /**
+     * anki
      * @question:
      * 1.状态如何定义?(通常状态如何定义?)
      * 2.转移方程是什么?

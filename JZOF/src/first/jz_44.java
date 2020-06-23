@@ -10,6 +10,7 @@ package first;
 public class jz_44 {
 
     /**
+     * anki
      * @link https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/mian-shi-ti-44-shu-zi-xu-lie-zhong-mou-yi-wei-de-6/
      * @question(数学)
      * 1.如何拆解数位n,通过哪些变量(num,digit,start),含义分别是?画图说明

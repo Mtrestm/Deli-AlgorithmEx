@@ -9,11 +9,12 @@ package first;
 
 public class jz_60 {
     /**
+     * anki
      * @link:https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/solution/dong-tai-gui-hua-by-shy-14/
      * @link: https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/solution/nge-tou-zi-de-dian-shu-dong-tai-gui-hua-ji-qi-yo-3/
      * @question
      * 0.每一种结果和的概率应该如何算?
-     * 1.有哪些3个状态变量
+     * 1.有哪3个状态变量
      * 2.状态变量的变化范围
      * 3.dp 状态的含义? base case 如何初始化?
      * 4.如何进行一次状态转移?

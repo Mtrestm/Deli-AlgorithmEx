@@ -11,8 +11,9 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
+ * anki
  * @question:
- * 0.如何利用层序遍历来实现序列化和反序列化
+ * 0.如何利用层序遍历来实现序列化和反序列化,序列化要借助哪种数据结构?
  * 1.反序列化的步骤?
  * 2.如何画图描述反序列化的过程?
  * 3.序列化的步骤?

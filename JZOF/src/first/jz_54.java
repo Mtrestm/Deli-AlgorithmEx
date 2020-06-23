@@ -19,7 +19,9 @@ public  class jz_54 {
     }
 
     /**
+     * ANKI
      * @link: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/solution/mian-shi-ti-54-er-cha-sou-suo-shu-de-di-k-da-jie-d/
+     * 0.求"二叉搜索树第k大的节点"可以转化为什么问题?
      * 1.实际上考察的是二叉树的?序遍历====从大到小即什么顺序?
      * 2.递归的方式代码怎么写?
      * 3.请画图整个过程说明?

@@ -12,8 +12,12 @@ import java.util.Queue;
 
 public class lc_994 {
     /**
-     * todo:bfs+二维数组
-     * @question : //1.思考队列中存什么,数据结构是什么样的?//2.坐标(x,y)的四个边界条件?//3.从队列中取出腐烂橘子开始在四个方向污染时,达到哪些边界条件下不需要做任何操作?
+     * anki
+     * bfs+二维数组
+     * @question :
+     * //1.思考队列中存什么,数据结构是什么样的?
+     * //2.坐标(x,y)的四个边界条件?
+     * //3.从队列中取出腐烂橘子开始在四个方向污染时,达到哪些边界条件下不需要做任何操作?
      * @author Shaobo.Qian
      * @date 2020/3/4
      * @link https://leetcode.com/problems/rotting-oranges/discuss/238681/Java-Clean-BFS-Solution-with-comments

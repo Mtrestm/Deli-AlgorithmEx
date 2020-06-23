@@ -17,7 +17,11 @@ public class lc_206 {
     }
 
     /**
-     * //todo: 双指针迭代
+     * anki
+     * @question
+     * 0.不用外部空间有哪两种解法?
+     * 1.双指针的解法来反转链表以及画图?
+     * 2.递归的解法来反转链表以及画图?
      * @author Shaobo.Qian
      * @date 2020/3/2
      * @link https://leetcode-cn.com/problems/reverse-linked-list/solution/dong-hua-yan-shi-206-fan-zhuan-lian-biao-by-user74/
@@ -41,7 +45,7 @@ public class lc_206 {
 
     private ListNode prev , temp = null;
     /**
-     * //todo:递归解法
+     * //递归解法
      * @author Shaobo.Qian
      * @date 2020/3/2
      * @Link https://leetcode-cn.com/problems/reverse-linked-list/solution/dong-hua-yan-shi-206-fan-zhuan-lian-biao-by-user74/

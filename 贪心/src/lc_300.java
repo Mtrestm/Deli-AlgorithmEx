@@ -47,6 +47,7 @@ public class lc_300 {
                 // 走到这里是因为 【逻辑 1】 的反面，因此一定能找到第 1 个大于等于 nums[i] 的元素
                 // 因此，无需再单独判断
                 tail[left] = nums[i];
+                System.out.println("tail[left] = "+left+" " + nums[i]);
             }
             // 调试方法
              printArray(nums[i], tail);

@@ -13,11 +13,13 @@ public class jz_31 {
 
 
     /**
+     * anki
      * @question:
      * 1.如何按照出栈序列数组模拟 压入 / 弹出操作的排列,需要借助什么?
      * 2.什么条件成立,元素出栈?
      * 3.如何判断弹出序列合法?
      * 辅助栈(模拟poped 数组元素入栈出栈的过程)
+     * @link: https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/solution/mian-shi-ti-31-zhan-de-ya-ru-dan-chu-xu-lie-mo-n-2/
      * @author Shaobo.Qian
      * @date 2020/5/2
      */

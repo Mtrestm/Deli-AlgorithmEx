@@ -18,14 +18,17 @@ public class jz_10 {
     }
 
     /**
-     * todo:
-     * @question:1.dp的方程,basecase,是怎样的? 2.该题有哪些不同的解法
-     * dp(自顶向下+循环)
+     * anki
+     * @question:
+     * 1.dp的方程,basecase,是怎样的?
+     * 2.该题有哪些不同的解法?
+     * 3.动态规划的图怎么画?
      *
      * @author Shaobo.Qian
      * @date 2020/3/5
      * @link https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/solution/mian-shi-ti-10-i-fei-bo-na-qi-shu-lie-dong-tai-gui/
      */
+    // 解法一:dp(自顶向下+循环+记忆化)
     public static int fib(int n) {
         int a = 0, b = 1, sum;
         for (int i = 0; i < n; i++) {
@@ -37,7 +40,7 @@ public class jz_10 {
     }
 
     /**
-     * 动态规划,自顶向下(递归+记忆化)
+     * 解法二:动态规划,自顶向下(递归+记忆化)
      * @author Shaobo.Qian
      * @date 2020/3/5
      */

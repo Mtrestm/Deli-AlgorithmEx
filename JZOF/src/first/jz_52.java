@@ -7,8 +7,8 @@
 
 package first;
 
-public  class jz_52 {
-    class ListNode{
+public class jz_52 {
+    class ListNode {
         int val;
         ListNode next;
 
@@ -17,7 +17,9 @@ public  class jz_52 {
             next = null;
         }
     }
+
     /**
+     * anki
      * 双指针
      * @link: https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/liang-ge-lian-biao-zhong-de-di-yi-ge-gong-gong-jie/
      * @link: https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/solution/shuang-zhi-zhen-fa-lang-man-xiang-yu-by-ml-zimingm/
@@ -37,11 +39,12 @@ public  class jz_52 {
 
     /**
      * 自解(未解出,理论上可以,没发现错误)
+     *
      * @author Shaobo.Qian
      * @date 2020/5/5
      */
     public ListNode getIntersectionNode1(ListNode headA, ListNode headB) {
-        if (headA == null || headB ==null) return null;
+        if (headA == null || headB == null) return null;
         //1.将两个链表倒置
         ListNode reverseA = getReverseListNode(headA);
         System.out.println("reverseA.val = " + reverseA.val);
@@ -69,6 +72,7 @@ public  class jz_52 {
 
     /**
      * 双指针(倒置链表)
+     *
      * @author Shaobo.Qian
      * @date 2020/5/5
      */

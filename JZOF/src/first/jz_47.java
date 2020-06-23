@@ -19,6 +19,7 @@ public class jz_47 {
         System.out.println("max = " + max);
     }
     /**
+     * anki
      * dp
      * @link:https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/solution/mian-shi-ti-47-li-wu-de-zui-da-jie-zhi-dong-tai-gu/
      * @question:

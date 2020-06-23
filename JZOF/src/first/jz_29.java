@@ -10,6 +10,7 @@ package first;
 public class jz_29 {
 
     /**
+     * anki
      * @question:
      * 1.打印矩阵的方向是如何循环的?
      * 2.如何定义四条边界?

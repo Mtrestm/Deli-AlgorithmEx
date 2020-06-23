@@ -31,11 +31,13 @@ public class jz_36 {
     }
 
     /**
-     * todo:用栈实现中序遍历(栈+迭代)
+     * anki
+     * :用栈实现中序遍历(栈+迭代)
      *
      * @author Shaobo.Qian
      * @date 2020/3/3
      * @link https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/mian-shi-ti-36-er-cha-sou-suo-shu-yu-shuang-xian-2/
+     * https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/solution/mian-shi-ti-36-er-cha-sou-suo-shu-yu-shuang-xian-5/
      */
     public Node treeToDoublyList1(Node root) {
         if (root == null) return null;

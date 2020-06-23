@@ -24,7 +24,6 @@ public class jz_57 {
 
     /**
      * @question 1.满足窗口滑动的条件(left<right)
-     * //todo:滑动窗口+双指针
      * @author Shaobo.Qian
      * @date 2020/3/5
      * @link https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/

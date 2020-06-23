@@ -31,7 +31,7 @@ public class lc_426 {
     }
 
     /**
-     * todo:用栈实现中序遍历(栈+迭代)
+     * 用栈实现中序遍历(栈+迭代)
      *
      * @author Shaobo.Qian
      * @date 2020/3/3
@@ -68,7 +68,7 @@ public class lc_426 {
     }
 
     /**
-     * todo: 递归 + (将二叉搜索树转化为排序的双向链表)
+     * 递归 + (将二叉搜索树转化为排序的双向链表)
      * @question: //1.递归的方式二叉树的标准中序遍历怎么写?
      * @author Shaobo.Qian
      * @date 2020/3/4

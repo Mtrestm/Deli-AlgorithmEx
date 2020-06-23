@@ -12,8 +12,10 @@ public class jz_11 {
 
     }
     /**
-     * todo:二分查找
-     * @question: 1.二分查找的适用范围(任何能通过条件将数组不断缩小边界找到查找目标的情况) 2.二分查找查找旋转点的方法是如何在不同情况下收缩边界的
+     * anki
+     * @question:
+     * 1.二分查找的适用范围(任何能通过条件将数组不断缩小边界找到查找目标的情况)?
+     * 2.二分查找查找旋转点的方法是如何在不同情况下收缩边界的?
      * @author Shaobo.Qian
      * @date 2020/3/6
      * @link https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/solution/mian-shi-ti-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-3/

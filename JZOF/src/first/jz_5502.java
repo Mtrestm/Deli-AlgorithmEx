@@ -19,12 +19,13 @@ public  class jz_5502 {
     }
 
     /**
-     * 防解
+     * anki
      * @link: https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-cong-di-zhi/
      * @question:
-     * 0.自己的解题的思路?这种思路还可以怎么优化?
-     * 1.用二叉树的?序遍历 ,如何剪枝?
-     * 2.请画图说明?
+     * 0.本题的两种解法?
+     * 1.使用前序遍历+深度判断的问题
+     * 2.用二叉树的后序遍历 ,如何剪枝?
+     * 3.请画图说明?
      * @author Shaobo.Qian
      * @date 2020/5/5
      */

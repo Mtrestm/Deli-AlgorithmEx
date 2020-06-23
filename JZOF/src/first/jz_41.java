@@ -11,11 +11,13 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 /**
+ * anki
  * 设计题
  * @link: https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/solution/mian-shi-ti-41-shu-ju-liu-zhong-de-zhong-wei-shu-y/
  * @Question:
  * 1.取中位数对应会遇到哪两种情况?
  * 2.如何在 O(1)的时间内取到中位数?
+ * 3.算法流程是怎样的?需要借助哪种数据结构实现?
  * @author Shaobo.Qian
  * @date 2020/5/8
  */

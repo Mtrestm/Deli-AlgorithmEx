@@ -27,6 +27,16 @@ public class jz_38 {
      */
     List<String> res = new ArrayList<>();
 
+    /**
+     * anki
+     * @question:
+     * 1.假设字符串中的字符不重复,有多少种排列方案?
+     * 2.当字符串存在重复字符时，排列方案中也存在重复方案,如何剪枝(需要借助哪种数据结构),如何恢复?
+     * 3.如果不剪枝,使用普通得方法怎么解?
+     * @author Shaobo.Qian
+     * @date 2020/5/24
+     */
+    //自解
     public String[] permutation(String s) {
 
 

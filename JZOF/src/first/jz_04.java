@@ -14,7 +14,7 @@ public class jz_04 {
     }
 
     /**
-     * todo:1.解题思路和满足循环的条件
+     * 1.解题思路和满足循环的条件
      * @author Shaobo.Qian
      * @date 2020/3/5
      * @link https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-b-3/

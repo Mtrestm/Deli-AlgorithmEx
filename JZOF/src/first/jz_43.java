@@ -11,6 +11,7 @@ public class jz_43 {
 
 
     /**
+     * anki
      * @link: https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/solution/mian-shi-ti-43-1n-zheng-shu-zhong-1-chu-xian-de-2/
      * @question (数学)
      * 1.一个数字 n 可以定义成哪些变量,借由这些变量(cur,low,high,digit)来拆解数字 n,请画图说明?
