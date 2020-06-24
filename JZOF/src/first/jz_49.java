@@ -9,6 +9,7 @@ package first;
 
 public class jz_49 {
     /**
+     * anki
      * 自顶向下
      * @question:
      * 1.丑数的递推性质是什么?
@@ -17,6 +18,7 @@ public class jz_49 {
      * 4.如何进行一次状态转移?
      * 5.状态转移后,状态变量如何变化?
      * 6.如何画图解释 dp 的过程?
+     * @link https://leetcode-cn.com/problems/chou-shu-lcof/solution/mian-shi-ti-49-chou-shu-dong-tai-gui-hua-qing-xi-t/
      * @author Shaobo.Qian
      * @date 2020/5/4
      */

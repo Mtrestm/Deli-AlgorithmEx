@@ -20,7 +20,7 @@ public class lc_50 {
     }
 
     /**
-     * //todo:待入 anki
+     * // anki
      * 数学:快速幂
      * @link: https://leetcode-cn.com/problems/powx-n/solution/50-powx-n-kuai-su-mi-qing-xi-tu-jie-by-jyd/
      * @quesiton:

@@ -9,6 +9,7 @@ package first;
 
 public class jz_5701 {
     /**
+     * anki
      * 双指针
      * @link https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/solution/mian-shi-ti-57-he-wei-s-de-liang-ge-shu-zi-shuang-/
      * @question:

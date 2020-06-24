@@ -16,12 +16,13 @@ public class jz_5602 {
     }
 
     /**
+     * anki
      * 位运算
      *
      * @link: https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/solution/mian-shi-ti-56-ii-shu-zu-zhong-shu-zi-chu-xian-d-4/
      * @question:
      * 1.求解除了一个数字以外，其余数字都出现的问题的通用思路(位运算)是怎样的?
-     *
+     * 2.如何记录所有数字的各二进制位的1 的出现次数?
      *
      * @author Shaobo.Qian
      * @date 2020/5/6

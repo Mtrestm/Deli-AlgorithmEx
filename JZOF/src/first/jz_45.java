@@ -27,10 +27,12 @@ public class jz_45 {
     }
 
     /**
+     * anki
      * 排序
      * @link: https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/solution/mian-shi-ti-45-ba-shu-zu-pai-cheng-zui-xiao-de-s-4/
      * @question
-     * 1.排序的规则是什么
+     * 0.本题实际上是一个什么问题?
+     * 1.排序的规则是什么?
      * @author Shaobo.Qian
      * @date 2020/5/3
      */

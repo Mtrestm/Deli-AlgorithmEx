@@ -27,9 +27,11 @@ public  class jz_5501 {
     }
 
     /**
+     * anki
      * @question:
-     * 1.dfs+分治思想的更加优雅的写法?
+     * 1.(后序遍历)dfs+分治思想的解法更加优雅的写法?
      * 2.请画图说明dfs 的过程?
+     * 3.层序遍历(BFS) 解法的过程?
      * @link: https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-xian-xu-bia/
      * @param root
      * @return

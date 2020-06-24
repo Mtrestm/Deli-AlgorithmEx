@@ -21,6 +21,7 @@ public class jz_28 {
      * @question:
      * 1.对于树中 任意两个对称节点L和R ，一定有满足哪三个条件?
      * 2.递归终止条件是?
+     * https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/solution/mian-shi-ti-28-dui-cheng-de-er-cha-shu-di-gui-qing/
      * @author Shaobo.Qian
      * @date 2020/5/1
      */

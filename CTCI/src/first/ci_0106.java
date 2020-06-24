@@ -19,9 +19,14 @@ public class ci_0106 {
     }
 
     /**
-     * todo: 双指针
+     * anki
+     * 双指针
+     * @question
+     * 1.使用哪种双指针?
+     * 2.整体思路?如何画图表示?
      * @author Shaobo.Qian
      * @date 2020/3/17
+     * https://leetcode-cn.com/problems/compress-string-lcci/solution/shuang-zhi-zhen-fa-qu-lian-xu-zi-fu-cpython-by-net/
      * https://leetcode-cn.com/problems/compress-string-lcci/solution/javaban-ben-shuang-zhi-zhen-shi-jian-fu-za-du-on-k/
      */
     public static String compressString(String S) {

@@ -16,10 +16,11 @@ public  class jz_5301 {
         System.out.println("cnt = " + cnt);
     }
     /**
+     * anki
      * @link https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/solution/mian-shi-ti-53-i-zai-pai-xu-shu-zu-zhong-cha-zha-5/
      * @question
      * 1.如何使用二次二分的方法解题?
-     *
+     * 2.本题的问题可以转换为什么问题?
      * @author Shaobo.Qian
      * @date 2020/5/5
      */

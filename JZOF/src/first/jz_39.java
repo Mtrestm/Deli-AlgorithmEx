@@ -13,6 +13,7 @@ import java.util.Map;
 public class jz_39 {
 
     /**
+     * anki
      * @question:
      * 1.如果要求不申请新的空间,原地统计,有什么方法可以统计出众数?原理是?
      * 2.画图解释这种原理?

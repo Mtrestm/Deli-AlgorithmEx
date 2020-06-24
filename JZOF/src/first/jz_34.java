@@ -23,10 +23,11 @@ public class jz_34 {
     }
 
     /**
+     * anki
      * dfs(回溯)
      * 1.本题利用什么进行回溯?如何清楚数据?
      * 2.整个回溯过程是怎样的,如何画图?
-     * @link https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/submissions/
+     * @link https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/solution/mian-shi-ti-34-er-cha-shu-zhong-he-wei-mou-yi-zh-5/
      * @author Shaobo.Qian
      * @date 2020/5/2
      */
